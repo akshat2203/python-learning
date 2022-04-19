@@ -14,7 +14,7 @@ class Student:
         print(f"Total student {Student.count}")
 
     def student_details(self):
-        print(f"Name : {self.name} Salary: {self.marks}")
+        print(f"Name : {self.name} Marks: {self.marks}")
 
 
 "objects of Student class"
